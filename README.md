@@ -12,10 +12,13 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 #### My socials:
 
 <a title="Lux&_'s Discord profile" href="discordapp.com/users/786144801456259092"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
+
 <a title="Lux_'s Steam profile" href="https://steamcommunity.com/id/alsosacha/"><img height="32" width="32" src="https://cdn.simpleicons.org/steam" style="width:40px" /></a>
+
 <a title="volcanofr's X profile" href="https://x.com/volcaneau"><img height="32" width="32" src="https://cdn.simpleicons.org/x" style="width:40px" /></a>
-<a title="volcanofr's Spotify profile" href="https://open.spotify.com/user/n3d7kis8hd857qv4afw9rwl5s"><img height="32" width="32" src="https://cdn.simpleicons.org/spotify" style="width:40px" /></a>
+
 <a title="volcanofr's Twitch profile" href="https://twitch.tv/volcaneaufrance"><img height="32" width="32" src="https://cdn.simpleicons.org/twitch" style="width:40px" /></a>
+
 <a title="volcanofr's Youtube profile" href="https://www.youtube.com/@volcanofr"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
 
 #### Languages & Tools:
