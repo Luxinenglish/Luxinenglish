@@ -1,4 +1,4 @@
-# Hi there, I'm [volcanofr](https://discord.com/users/589383722759880705 'volcanofr\'s Discord profile') 👀
+# Hi there, I'm [volcanofr](discordapp.com/users786144801456259092 'Lux\'s Discord profile') 👀
 
 In life, I am :
 - a French 🥐 17yo (`26/10/2006`) boy ;
