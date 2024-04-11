@@ -1,10 +1,9 @@
-# Hi there, I'm [Lux_](discordapp.com/users786144801456259092 'Lux\'s Discord profile') 👀
+# Hi there, I'm [Lux_](discordapp.com/users/786144801456259092 'Lux\'s Discord profile') 👀
 
 In life, I am :
-- a French 🥐 17yo (`26/10/2006`) boy ;
-- an aspiring electrician/automatic engineer ⚡ ;
+- a French 🥐 16yo boy ;
+- an aspiring pentester ⚡ ;
 - a mid-level developer ⚙️ ;
-- a small graphist 🖌️ and pixel-artist ;
 - a chess ♟️ & Minecraft player ;
 - and way more...
 
@@ -12,7 +11,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 
 #### My socials:
 
-<a title="volcanofr's Discord profile" href="https://discord.com/users/589383722759880705"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
+<a title="Lux&_'s Discord profile" href="discordapp.com/users/786144801456259092"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
 <a title="volcanofr's Steam profile" href="https://steamcommunity.com/id/alsosacha/"><img height="32" width="32" src="https://cdn.simpleicons.org/steam" style="width:40px" /></a>
 <a title="volcanofr's X profile" href="https://x.com/volcaneau"><img height="32" width="32" src="https://cdn.simpleicons.org/x" style="width:40px" /></a>
 <a title="volcanofr's Spotify profile" href="https://open.spotify.com/user/n3d7kis8hd857qv4afw9rwl5s"><img height="32" width="32" src="https://cdn.simpleicons.org/spotify" style="width:40px" /></a>
