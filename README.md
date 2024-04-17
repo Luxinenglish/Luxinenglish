@@ -11,7 +11,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 
 #### My socials:
 
-<a title="Lux&_'s Discord profile" href="discordapp.com/users/786144801456259092"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
+<a title="Lux_'s Discord profile" href="discordapp.com/users/786144801456259092"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
 <a title="Lux_'s Steam profile" href="https://steamcommunity.com/profiles/76561199149113433/"><img height="32" width="32" src="https://cdn.simpleicons.org/steam" style="width:40px" /></a>
 <a title="Lux_'s X profile" href="https://x.com/Lux_in_french"><img height="32" width="32" src="https://cdn.simpleicons.org/x" style="width:40px" /></a>
 <a title="Lux_'s Twitch profile" href="https://twitch.tv/Drythegame"><img height="32" width="32" src="https://cdn.simpleicons.org/twitch" style="width:40px" /></a>
@@ -33,9 +33,9 @@ And more...
 
 ### My GitHub stats:
 
-![volcanofr's GitHub followers](https://img.shields.io/github/followers/volcanofr)
-![volcanofr's GitHub stars](https://img.shields.io/github/stars/volcanofr)
-![volcanofr's GitHub sponsors](https://img.shields.io/github/sponsors/volcanofr)
+![Lux_'s GitHub followers](https://img.shields.io/github/followers/luxinenglish)
+![Lux_'s GitHub stars](https://img.shields.io/github/stars/luxinenglish)
+![Lux_'s GitHub sponsors](https://img.shields.io/github/sponsors/luxinenglish)
 
 ![volcanofr's GitHub stats](https://github-readme-stats-volcanofrs-projects.vercel.app/api?username=volcanofr&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars)
 
