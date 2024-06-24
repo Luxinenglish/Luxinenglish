@@ -37,5 +37,4 @@ And more...
 ![Lux_'s GitHub stars](https://img.shields.io/github/stars/luxinenglish)
 ![Lux_'s GitHub sponsors](https://img.shields.io/github/sponsors/luxinenglish)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxinenglish)](https://github.com/anuraghazra/github-readme-stats)
-![volcanofr's GitHub most used languages](https://github-readme-stats-volcanofrs-projects.vercel.app/api/top-langs/?username=luxinenglish&show_icons=true&theme=onedark&size_weight=0.3&count_weight=0.7&layout=donut)
+<img src="https://github-readme-stats.vercel.app/api?username=luxinenglish&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="luxinenglish's GitHub Stats" />![volcanofr's GitHub most used languages](https://github-readme-stats-volcanofrs-projects.vercel.app/api/top-langs/?username=luxinenglish&show_icons=true&theme=onedark&size_weight=0.3&count_weight=0.7&layout=donut)
