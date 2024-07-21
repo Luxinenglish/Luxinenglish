@@ -3,7 +3,7 @@
 In life, I am :
 - a French 🥐 16yo boy ;
 - an aspiring pentester ⚡ ;
-- a mid-level developer ⚙️ ;
+- a full-stack developer ⚙️ ;
 - a chess ♟️ & Minecraft player ;
 - and way more...
 
