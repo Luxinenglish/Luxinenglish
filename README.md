@@ -20,9 +20,9 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 
 <a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" style="width:40px" /></a>
 <a title="NodeJS" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js" style="width:40px" /></a>
-<a title="npm" href="https://www.npmjs.com/~volcanofr"><img height="32" width="32" src="https://cdn.simpleicons.org/npm" style="width:40px" /></a>
+<a title="npm" href="https://www.npmjs.com/~luxinenglish"><img height="32" width="32" src="https://cdn.simpleicons.org/npm" style="width:40px" /></a>
 <a title="git" href="https://git-scm.com/about"><img height="32" width="32" src="https://cdn.simpleicons.org/git" style="width:40px" /></a>
-<a title="GitHub" href="https://github.com/volcanofr/volcanofr#readme"><img height="32" width="32" src="https://cdn.simpleicons.org/github" style="width:40px" /></a>
+<a title="GitHub" href="https://github.com/luxinenglish/luxinenglish#readme"><img height="32" width="32" src="https://cdn.simpleicons.org/github" style="width:40px" /></a>
 <a title="Schneider Electric" href="https://www.se.com/us/en/product-range/542-zelio-soft/#overview"><img height="32" width="32" src="https://cdn.simpleicons.org/schneiderelectric" style="width:40px" /></a>
 <a title="Google" href="https://drive.google.com"><img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" style="width:40px" /></a>
 <a title="VSCode" href="https://code.visualstudio.com"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" style="width:40px" /></a>
