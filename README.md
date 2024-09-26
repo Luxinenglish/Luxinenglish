@@ -37,5 +37,5 @@ And more...
 ![Lux_'s GitHub stars](https://img.shields.io/github/stars/luxinenglish)
 ![Lux_'s GitHub sponsors](https://img.shields.io/github/sponsors/luxinenglish)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luxinenglish&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luxinenglish&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luxinenglish&theme=dark&show_icons=true&hide_border=true&layout=compact)
