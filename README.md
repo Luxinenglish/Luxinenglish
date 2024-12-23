@@ -15,7 +15,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 <a title="Lux_'s X profile" href="https://x.com/Lux_in_french"><img height="32" width="32" src="https://cdn.simpleicons.org/x" style="width:40px" /></a>
 <a title="Lux_'s Twitch profile" href="https://twitch.tv/Drythegame"><img height="32" width="32" src="https://cdn.simpleicons.org/twitch" style="width:40px" /></a>
 <a title="Lux_'s Youtube profile" href="https://www.youtube.com/@drythegame5592"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
-<p></p>
+#### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/786144801456259092)](https://discord.com/users/786144801456259092)
 #### Languages & Tools:
 
