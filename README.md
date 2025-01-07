@@ -19,18 +19,63 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 [![Discord Presence](https://lanyard.cnrad.dev/api/786144801456259092)](https://discord.com/users/786144801456259092)
 #### Languages & Tools:
 
-<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" style="width:40px" /></a>
-<a title="NodeJS" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js" style="width:40px" /></a>
-<a title="npm" href="https://www.npmjs.com/~luxinenglish"><img height="32" width="32" src="https://cdn.simpleicons.org/npm" style="width:40px" /></a>
-<a title="git" href="https://git-scm.com/about"><img height="32" width="32" src="https://cdn.simpleicons.org/git" style="width:40px" /></a>
-<a title="GitHub" href="https://github.com/luxinenglish/luxinenglish#readme"><img height="32" width="32" src="https://cdn.simpleicons.org/github" style="width:40px" /></a>
-<a title="Schneider Electric" href="https://www.se.com/us/en/product-range/542-zelio-soft/#overview"><img height="32" width="32" src="https://cdn.simpleicons.org/schneiderelectric" style="width:40px" /></a>
-<a title="Google" href="https://drive.google.com"><img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" style="width:40px" /></a>
-<a title="VSCode" href="https://code.visualstudio.com"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" style="width:40px" /></a>
-<a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML"><img height="32" width="32" src="https://cdn.simpleicons.org/html5" style="width:40px" /></a>
-<a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS"><img height="32" width="32" src="https://cdn.simpleicons.org/css3" style="width:40px" /></a>
-<a title="TypeScript" href="https://www.typescriptlang.org"><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" style="width:40px" /></a>
-And more...
+------
+<h3 align="left">Activity:</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luxinenglish&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/Luxinenglish">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luxinenglish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Luxinenglish"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luxinenglish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Luxinenglish"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/Luxinenglish">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luxinenglish&&theme=tokyonight" alt="Luxinenglish" />
+  </a>
+</p>
+
+------
+<h3 align="left">Languages and Tools:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
+    </tr>
+</table>
 
 ### My GitHub stats:
 
