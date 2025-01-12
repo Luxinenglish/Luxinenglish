@@ -1,4 +1,4 @@
-# Hi there, I'm [Lux_](discordapp.com/users/786144801456259092 'Lux\'s Discord profile') 👀
+# Hi there, I'm [Lux_](discordapp.com/users/786144801456259092 'Lux\'s Discord profile') 👀🥐⚡
 
 In life, I am :
 - a French 🥐 16yo boy ;
