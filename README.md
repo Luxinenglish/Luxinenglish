@@ -17,6 +17,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 <a title="Lux_'s Youtube profile" href="https://www.youtube.com/@drythegame5592"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
 #### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/786144801456259092)](https://discord.com/users/786144801456259092)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/786144801456259092?simple=true)
 #### Languages & Tools:
 
 ------
