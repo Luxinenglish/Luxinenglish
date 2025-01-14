@@ -69,7 +69,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,javafx,arduino,raspberry" alt="Other Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,javafx,arduino,raspberrypi" alt="Other Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
