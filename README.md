@@ -65,7 +65,7 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime,intellij,clion,pycharm" alt="IDEs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,sublime,phpstorm,webstorm,intellij,clion,pycharm" alt="IDEs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Other Tools:</td>
