@@ -40,42 +40,43 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,cpp,net,python,spring,maven,nodejs,flask,express,nginx"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,cpp,dotnet,python,spring,maven,nodejs,flask,express,nginx" alt="Backend Tools"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,bootstrap,html,css,js,ts,figma"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,bootstrap,html,css,js,ts,figma" alt="Frontend Tools"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Tools"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,gitlarun"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,gitlabci" alt="DevOps Tools"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytest"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Automated Testing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytest" alt="Testing Tools"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control Tools"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,phpsotrm,sublime"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime" alt="IDEs"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash" alt="Other Tools"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,arch,kali"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,arch,kali" alt="Operating Systems"/></td>
     </tr>
 </table>
+
 
 ### My GitHub stats:
 
