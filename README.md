@@ -1,7 +1,7 @@
 # Hi there, I'm [Lux_](discordapp.com/users/786144801456259092 'Lux\'s Discord profile') 👀🥐⚡
 
 In life, I am :
-- a French 🥐 16yo boy ;
+- a French 🥐 17yo boy ;
 - an aspiring pentester ⚡ ;
 - a full-stack developer ⚙️ ;
 - a chess ♟️ & Minecraft player ;
