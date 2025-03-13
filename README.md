@@ -80,6 +80,12 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,arch,kali," alt="Operating Systems"/></td>
     </tr>
 </table>
+<h2 align="center">Root-me Stat<h2>
+<p align="center">
+    <a href="https://www.root-me.org/LighTender" target="_blank"> 
+        <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Lux&gstats=show&style=dark" width="400" />
+    </a>
+</p>
 
 
 ### My GitHub stats:
