@@ -92,4 +92,3 @@ I am also a [La Mache](https://www.ecolelamache.org/ 'La Mache School') student.
 
 ![Lux_'s GitHub followers](https://img.shields.io/github/followers/luxinenglish)
 ![Lux_'s GitHub stars](https://img.shields.io/github/stars/luxinenglish)
-![Lux_'s GitHub sponsors](https://img.shields.io/github/sponsors/luxinenglish)
